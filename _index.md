@@ -8,7 +8,7 @@ url: /pub/
 
 **![todo:image_alt_text](aspose-pub-for-cpp_1)**
 
-**Welcome to the Aspose.PUB for C++ Documentation Section**
+**Welcome to the Aspose.PUB for C++ Documentation Section....**
 
 Aspose.PUB for C++ is a native C++ library that allows developers to read Microsoft Public files (.pub). It also allows us to convert .pub files to PDF without the need of any other software. The API lets you work with publication files without understanding the underlying file format structure. C++ application developers can thus use the API to create rich publication files conversion applications for mass conversion of PUB files to PDF format.
 
