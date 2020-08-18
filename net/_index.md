@@ -3,9 +3,10 @@ title: Aspose.PUB for .NET
 type: docs
 url: /net/
 weight: 10
+is_root: true
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 ![todo:image_alt_text](home_1)
 
@@ -13,7 +14,7 @@ weight: 10
 
 Aspose.PUB for .NET is an API to read and convert PUB files to PDF file format. It facilitates .NET application developers to work with the electronic publication file format (.pub) without the need of installing it on any server or client application. With Aspose.PUB for .NET, you purely focus on your business logic instead of going into the underlying details of the .pub file format. It lets you save time and effort by allowing you to write short and simple lines of code into your applications quickly and easily.
 
-{{% /alert %}} 
+{{% /alert %}}
 ## **Aspose.PUB for .NET Resources**
 Following are the links to some useful resources you may need to accomplish your tasks.
 
