@@ -3,6 +3,7 @@ title: Aspose.PUB for C++
 type: docs
 url: /cpp/
 weight: 10
+is_root: true
 ---
 
 {{% alert color="primary" %}} 

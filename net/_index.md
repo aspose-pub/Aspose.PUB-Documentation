@@ -3,6 +3,7 @@ title: Aspose.PUB for .NET
 type: docs
 url: /net/
 weight: 10
+is_root: true
 ---
 
 {{% alert color="primary" %}} 
