@@ -6,7 +6,7 @@ weight: 70
 ---
 
 ## **Evaluate Aspose.PUB**
-You can download Aspose.PUB for .NET free of cost for evaluation. The evaluation version provides almost all functionality of the product with certain limitations. The same evaluation version becomes licensed when you purchase a license and add a couple of lines of code to [apply the license](http://www.aspose.com/docs/display/pubnet/Licensing).
+You can download Aspose.PUB for .NET free of cost for evaluation. The evaluation version provides almost all functionality of the product with certain limitations. The same evaluation version becomes licensed when you purchase a license and add a couple of lines of code to [apply the license](https://docs.aspose.com/pub/net/licensing/#applying-for-a-license).
 
 If you want to test Aspose.PUB without evaluation version limitations, you can also request a 30 Day Temporary License. Please refer to [How to get a Temporary License?](https://purchase.aspose.com/temporary-license)
 ### **Evaluation Version Limitations**
