@@ -5,7 +5,7 @@ url: /java/supported-file-formats/
 weight: 20
 ---
 
-## **Supported File Formats**
+Aspose.PUB for Java supports the following file formats.
 
 |**Format**|**Description**|**Load**|**Save**|
 | :- | :- | :- | :- |
