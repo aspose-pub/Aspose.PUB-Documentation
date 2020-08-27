@@ -1,7 +1,7 @@
 ---
 title: "Installation"
 type: docs
-url: /net/installation/
+url: /java/installation/
 weight: 60
 ---
 
