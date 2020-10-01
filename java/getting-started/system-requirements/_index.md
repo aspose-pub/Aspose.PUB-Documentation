@@ -21,6 +21,6 @@ Aspose.Page for Java supports any 32-bit or 64-bit operating system that runs t
 ### **Mac**
 - Mac OS X
 ## **Supported Java Versions**
-Aspose.Words for Java supports the following Java versions:
+Aspose.PUB for Java supports the following Java versions:
 
 - J2SE 8.0 (1.8) or above (*for example Java 10*) 
