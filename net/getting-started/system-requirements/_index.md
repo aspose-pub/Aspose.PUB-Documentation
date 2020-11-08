@@ -3,6 +3,8 @@ title: "System Requirements"
 type: docs
 url: /net/system-requirements/
 weight: 50
+aliases:
+- /net/system-requirements-html/
 ---
 
 ## **Supported Operating Systems**
