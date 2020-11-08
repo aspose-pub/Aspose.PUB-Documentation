@@ -3,6 +3,8 @@ title: Aspose.PUB for .NET
 type: docs
 url: /net/
 weight: 10
+aliases:
+- /net/home/
 is_root: true
 ---
 
