@@ -5,6 +5,6 @@ url: /net/release-notes/
 weight: 30
 ---
 
-### **Release Notes**
+**Release Notes**
 - [Release Notes - 2020](/pub/net/release-notes-2020-html/)
 - [Release Notes - 2019](/pub/net/release-notes-2019-html/)
