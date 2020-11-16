@@ -5,7 +5,6 @@ url: /net/getting-started/
 weight: 10
 ---
 
-**Getting Started**
 - [Product Overview](/pub/net/product-overview-html/)
 - [Supported File Formats](/pub/net/supported-file-formats-html/)
 - [Features](/pub/net/features-html/)
