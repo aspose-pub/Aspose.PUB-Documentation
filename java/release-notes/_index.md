@@ -5,5 +5,5 @@ url: /java/release-notes/
 weight: 30
 ---
 
-### **Release Notes**
+**Release Notes**
 - [Release Notes - 2020](/pub/net/release-notes-2020/)
