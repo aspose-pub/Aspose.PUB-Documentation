@@ -11,7 +11,7 @@ This page contains release notes for Aspose.PUB for .NET 21.4.
 
 {{% /alert %}} 
 ## **Major Improvement**
-Aspose.PUB for .NET provides PUB to PDF conversion. SHA-256 license type has been supported. .NETSTANDARD 2.1 target framework support has been added.
+Aspose.PUB for .NET provides PUB to PDF conversion. SHA-256 license type has been supported. Support for .NET Standard 2.1 target framework has been added.
 ## **Improvements and Changes**
 
 |**Key**|**Summary**|**Category**|
