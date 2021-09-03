@@ -6,7 +6,7 @@ url: /pub/
 
 {{% alert color="primary" %}}
 
-**![todo:image_alt_text](aspose-pub-for-cpp_1)**
+![Aspose.PUB for C++ logo](aspose_pub-for-cpp-128.png)
 
 **Welcome to the Aspose.PUB for C++ Documentation Section.**
 
@@ -30,7 +30,7 @@ The following links offer some useful resources you may need to accomplish your 
 
 {{% alert color="primary" %}}
 
-![todo:image_alt_text](aspose-pub-for-net_1)
+![Aspose.PUB for .NET logo](aspose_pub-for-net-128.png)
 
 **Welcome to Aspose.PUB for .NET**
 

@@ -10,7 +10,7 @@ is_root: true
 
 {{% alert color="primary" %}}
 
-![todo:image_alt_text](home_1)
+![Aspose.PUB for .NET logo](../aspose_pub-for-net-128.png)
 
 **Welcome to Aspose.PUB for .NET**
 

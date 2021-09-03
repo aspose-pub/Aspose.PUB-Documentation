@@ -8,7 +8,7 @@ is_root: true
 
 {{% alert color="primary" %}}
 
-**![todo:image_alt_text](home_1)**
+![Aspose.PUB for C++ logo](../aspose_pub-for-cpp-128.png)
 
 **Welcome to the Aspose.PUB for C++ Documentation Section**
 
