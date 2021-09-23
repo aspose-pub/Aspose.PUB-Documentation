@@ -2,7 +2,7 @@
 title: "Aspose.PUB for .NET 21.6 Release Notes"
 type: docs
 url: /net/aspose-pub-for-net-21-6-release-notes/
-weight: 10
+weight: 70
 ---
 
 {{% alert color="primary" %}} 
