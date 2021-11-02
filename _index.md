@@ -1,5 +1,5 @@
 ---
-title: Aspos.PUB Product family
+title: Aspose.PUB Product family
 type: docs
 url: /pub/
 ---
