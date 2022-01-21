@@ -2,7 +2,7 @@
 title: "Aspose.PUB for CPP 21.2 Release Notes"
 type: docs
 url: /cpp/aspose-pub-for-cpp-21-2-release-notes/
-weight: 9
+weight: 11
 ---
 
 ## Major Features

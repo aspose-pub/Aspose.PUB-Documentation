@@ -4,7 +4,7 @@ type: docs
 url: /cpp/aspose-pub-for-cpp-20-6-release-notes/
 keywords: "C++ API, PUB to PDF C++"
 description: "C++ API to work with Microsoft Publication .pub files. Convert PUB to PDF in C++."
-weight: 20
+weight: 5
 ---
 
 {{% alert color="primary" %}} 

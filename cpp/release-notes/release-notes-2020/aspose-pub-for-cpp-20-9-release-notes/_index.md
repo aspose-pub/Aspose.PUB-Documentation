@@ -2,7 +2,7 @@
 title: "Aspose.PUB for CPP 20.9 Release Notes"
 type: docs
 url: /cpp/aspose-pub-for-cpp-20-9-release-notes/
-weight: 9
+weight: 3
 ---
 
 {{% alert color="primary" %}}

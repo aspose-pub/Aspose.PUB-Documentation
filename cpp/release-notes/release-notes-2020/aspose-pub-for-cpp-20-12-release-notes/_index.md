@@ -2,7 +2,7 @@
 title: "Aspose.PUB for CPP 20.12 Release Notes"
 type: docs
 url: /cpp/aspose-pub-for-cpp-20-12-release-notes/
-weight: 9
+weight: 1
 ---
 
 ## Major Features
