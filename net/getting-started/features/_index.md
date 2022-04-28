@@ -11,3 +11,4 @@ The API supports:
 
 - Reading Microsoft Publication (.pub) files
 - Convert .pub files to PDF
+- Edit MetaData of .pub files
