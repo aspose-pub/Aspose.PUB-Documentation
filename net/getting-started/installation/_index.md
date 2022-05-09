@@ -3,6 +3,7 @@ title: "Installation"
 type: docs
 url: /net/installation/
 weight: 60
+description: Install C# Publisher PUB Conversion and Manipulation API through NuGet and Package Manager Console.
 ---
 
 ## **Installing Aspose.PUB for .NET through NuGet**
