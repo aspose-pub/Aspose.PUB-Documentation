@@ -3,6 +3,7 @@ title: "Known Issues"
 type: docs
 url: /net/known-issues/
 weight: 40
+description: Read about the known issue of C# Publisher PUB Conversion and Manipulation API.
 ---
 
 ## **Known Issues**
