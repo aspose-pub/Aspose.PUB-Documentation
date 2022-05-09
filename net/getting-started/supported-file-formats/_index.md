@@ -3,6 +3,7 @@ title: "Supported File Formats"
 type: docs
 url: /net/supported-file-formats/
 weight: 20
+description: Supported file formats for C# Publisher PUB Conversion and Manipulation API include PUB and PDF.
 ---
 
 ## **Supported File Formats**
