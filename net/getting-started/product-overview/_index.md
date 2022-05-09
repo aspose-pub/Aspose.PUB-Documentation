@@ -5,6 +5,7 @@ url: /net/product-overview/
 weight: 10
 aliases:
 - /net/product-overview-html/
+description: C# Publisher PUB Conversion and Manipulation API gives you the power to read Microsoft Publisher files (.pub) and convert these to other file formats e.g. PDF. 
 ---
 
 {{% alert color="primary" %}} 
