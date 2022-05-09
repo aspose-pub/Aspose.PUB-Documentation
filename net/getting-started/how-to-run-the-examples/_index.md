@@ -3,6 +3,7 @@ title: "How to Run the Examples"
 type: docs
 url: /net/how-to-run-the-examples/
 weight: 80
+description: Download and run C# Publisher PUB Conversion and Manipulation API examples from GitHub in Visual Studio.
 ---
 
 ## **Software Requirements**
