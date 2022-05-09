@@ -3,6 +3,7 @@ title: "Licensing"
 type: docs
 url: /net/licensing/
 weight: 70
+description: Evaluate C# Publisher PUB Conversion and Manipulation API and set license to avoid evaluation limitations.
 ---
 
 ## **Evaluate Aspose.PUB**
