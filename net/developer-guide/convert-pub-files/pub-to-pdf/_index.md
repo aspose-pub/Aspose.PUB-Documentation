@@ -1,9 +1,10 @@
 ---
-title: "PUB to PDF"
+title: Convert PUB to PDF in C#
+linktitle: PUB to PDF
 type: docs
 url: /net/pub-to-pdf/
-keywords: "C# API, PUB to PDF using C#, Open .pub file, read .pub file, convert .pub file"
-description: "This article explains how to convert PUB files to PDF using C# and VB.NET."
+keywords: Convert PUB to PDF, C# API, PUB to PDF using C#, convert .pub file
+description: C# Publisher PUB Conversion API lets you convert PUB files to PDF that can be opened on almost all computers without the need for Microsoft Publisher being installed.
 weight: 10
 ---
 
