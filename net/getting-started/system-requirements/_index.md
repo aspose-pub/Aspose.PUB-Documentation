@@ -5,6 +5,7 @@ url: /net/system-requirements/
 weight: 50
 aliases:
 - /net/system-requirements-html/
+description: Learn about the System Requirements of C# Publisher PUB Conversion and Manipulation API on Windows, .NET Frameworks and Visual Studio.
 ---
 
 ## **Supported Operating Systems**
