@@ -1,8 +1,10 @@
 ---
-title: "Getting Started"
+title: Getting Started - C# Publisher PUB Conversion and Manipulation API
+linktitle: "Getting Started"
 type: docs
 url: /net/getting-started/
 weight: 10
+description: Getting Started section of C# Publisher Pub Conversion and Manipulation API includes topics relating to Product Overview, Features, Installation and How to Run Examples.
 ---
 
 - [Product Overview](/pub/net/product-overview-html/)
