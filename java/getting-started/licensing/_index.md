@@ -3,7 +3,9 @@ title: "Licensing"
 type: docs
 url: /java/licensing/
 weight: 70
+description: Evaluate Java Publisher PUB Conversion and Manipulation API and set license to avoid evaluation limitations.
 ---
+
 ## **Evaluation Version Limitations**
 We want our customers to test our components thoroughly before buying so the evaluation version allows you to use it as you would normally. The API pastes an evaluation watermark during conversion of .pub files to PDF file format.
 
