@@ -3,6 +3,7 @@ title: "How to Run the Examples"
 type: docs
 url: /java/how-to-run-the-examples/
 weight: 80
+description: Download and run Java Publisher PUB Conversion and Manipulation API examples from GitHub in IntelliJ IDEA, Eclipse and NetBeans.
 ---
 
 ## **Download from GitHub**
