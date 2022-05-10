@@ -3,6 +3,7 @@ title: "System Requirements"
 type: docs
 url: /java/system-requirements/
 weight: 50
+description: Learn about the System Requirements of Java Publisher PUB Conversion and Manipulation API on Windows, Linux, Mac and supported Java versions.
 ---
 
 ## **Supported Operating Systems**
