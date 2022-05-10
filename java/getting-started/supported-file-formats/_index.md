@@ -3,6 +3,7 @@ title: "Supported File Formats"
 type: docs
 url: /java/supported-file-formats/
 weight: 20
+description: Supported file formats for Java Publisher PUB Conversion and Manipulation API include PUB and PDF.
 ---
 
 Aspose.PUB for Java supports the following file formats.
