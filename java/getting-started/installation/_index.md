@@ -3,6 +3,7 @@ title: "Installation"
 type: docs
 url: /java/installation/
 weight: 60
+description: Install Java Publisher PUB Conversion and Manipulation API via Maven project and Maven repository.
 ---
 
 ## **Installing Aspose.PUB for Java from Aspose Repository**
