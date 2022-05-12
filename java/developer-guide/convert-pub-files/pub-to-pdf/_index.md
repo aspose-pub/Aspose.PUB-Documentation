@@ -1,9 +1,10 @@
 ---
-title: "PUB to PDF"
+title: Convert PUB to PDF in Java
+linktitle: PUB to PDF
 type: docs
 url: /java/pub-to-pdf/
-keywords: "Java API, PUB to PDF using Java, Open .pub file, read .pub file, convert .pub file"
-description: "This article explains how to convert PUB files to PDF using Java"
+keywords: Convert PUB to PDF, Java API, PUB to PDF using Java, convert .pub file
+description: Java Publisher PUB Conversion API lets you convert PUB files to PDF that can be opened on almost all computers without the need for Microsoft Publisher being installed.
 weight: 10
 ---
 
