@@ -1,5 +1,6 @@
 ---
-title: "Release Notes - 2021"
+title: Release Notes - 2021 | C++
+linktitle: Release Notes - 2021
 type: docs
 url: /cpp/release-notes-2021/
 weight: 9

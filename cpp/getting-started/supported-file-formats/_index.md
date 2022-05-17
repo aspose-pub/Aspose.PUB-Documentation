@@ -1,5 +1,6 @@
 ---
-title: "Supported File Formats"
+title: Supported File Formats | C++
+linktitle: Supported File Formats
 type: docs
 url: /cpp/supported-file-formats/
 keywords: "C++ API, PUB Files, PDF Files"

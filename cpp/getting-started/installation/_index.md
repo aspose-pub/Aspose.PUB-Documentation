@@ -1,5 +1,6 @@
 ---
-title: "Installation"
+title: Installation | C++
+linktitle: Installation
 type: docs
 url: /cpp/installation/
 weight: 50

@@ -1,5 +1,5 @@
 ---
-title: Convert Publisher PUB files to Different Formats in Java
+title: Convert PUB Files | Java
 linktitle: Convert PUB Files
 type: docs
 url: /java/convert-pub-files/

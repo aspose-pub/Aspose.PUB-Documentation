@@ -1,5 +1,5 @@
 ---
-title: Manipulate Publisher PUB files Programmatically in Java
+title: Programming with Documents | Java
 linktitle: Programming with Documents
 type: docs
 url: /java/programming-with-documents/

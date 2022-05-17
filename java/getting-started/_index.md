@@ -1,5 +1,5 @@
 ---
-title: Getting Started - Java Publisher PUB Conversion and Manipulation API
+title: Getting Started | Java
 linktitle: Getting Started
 type: docs
 url: /java/getting-started/

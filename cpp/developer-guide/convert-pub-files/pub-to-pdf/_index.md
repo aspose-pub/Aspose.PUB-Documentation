@@ -1,5 +1,6 @@
 ---
-title: "PUB to PDF"
+title: PUB to PDF | C++
+linktitle: PUB to PDF Conversion functionality
 type: docs
 url: /cpp/pub-to-pdf/
 keywords: "C++ convert pub to pdf, pub to pdf C++, C++ API publication files to pdf"

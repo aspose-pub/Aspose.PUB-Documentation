@@ -1,5 +1,6 @@
 ---
-title: "Release Notes"
+title: Release Notes | .NET
+linktitle: Release Notes
 type: docs
 url: /net/release-notes/
 weight: 30

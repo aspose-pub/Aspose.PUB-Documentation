@@ -1,5 +1,6 @@
 ---
-title: "Programming with Documents"
+title: Programming with Documents | C++
+linktitle: Programming with Documents
 type: docs
 url: /cpp/programming-with-documents/
 weight: 20

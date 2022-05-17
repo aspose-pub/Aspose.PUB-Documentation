@@ -1,6 +1,6 @@
 ---
-title: Convert PUB to PDF in Java
-linktitle: PUB to PDF
+title: PUB to PDF | Java
+linktitle: PUB to PDF Conversion functionality
 type: docs
 url: /java/pub-to-pdf/
 keywords: Convert PUB to PDF, Java API, PUB to PDF using Java, convert .pub file

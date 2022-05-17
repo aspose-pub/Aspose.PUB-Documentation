@@ -1,5 +1,6 @@
 ---
-title: "Known Issues"
+title: Known Issues | Java
+linktitle: Known Issues
 type: docs
 url: /java/known-issues/
 weight: 40

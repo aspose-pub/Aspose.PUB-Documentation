@@ -1,5 +1,6 @@
 ---
-title: "Release Notes - 2020"
+title: Release Notes - 2020 | Java
+linktitle: Release Notes - 2020
 type: docs
 url: /java/release-notes-2020/
 weight: 10

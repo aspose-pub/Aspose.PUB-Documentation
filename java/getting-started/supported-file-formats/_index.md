@@ -1,5 +1,6 @@
 ---
-title: "Supported File Formats"
+title: Supported File Formats | Java
+linktitle: Supported File Formats
 type: docs
 url: /java/supported-file-formats/
 weight: 20

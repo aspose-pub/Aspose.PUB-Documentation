@@ -1,5 +1,6 @@
 ---
-title: "Licensing"
+title: Licensing
+linktitle: Licensing | Java
 type: docs
 url: /java/licensing/
 weight: 70

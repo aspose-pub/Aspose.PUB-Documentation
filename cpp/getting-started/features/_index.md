@@ -1,5 +1,6 @@
 ---
-title: "Features"
+title: Apose.PUB for C++ Features 
+linktitle: Features
 type: docs
 url: /cpp/features/
 weight: 30

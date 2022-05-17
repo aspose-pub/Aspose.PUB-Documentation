@@ -1,5 +1,6 @@
 ---
-title: "How to Run the Examples"
+title: How to Run the Examples | Java
+linktitle: How to Run the Examples
 type: docs
 url: /java/how-to-run-the-examples/
 weight: 80

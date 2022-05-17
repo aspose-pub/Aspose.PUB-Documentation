@@ -1,5 +1,6 @@
 ---
-title: "How to Run the Examples"
+title: How to Run the Examples | .NET
+linktitle: How to Run the Examples
 type: docs
 url: /net/how-to-run-the-examples/
 weight: 80

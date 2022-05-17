@@ -1,5 +1,6 @@
 ---
-title: "Installation"
+title: Installation | .NET
+linktitle: Installation
 type: docs
 url: /net/installation/
 weight: 60

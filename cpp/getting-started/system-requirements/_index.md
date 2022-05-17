@@ -1,5 +1,6 @@
 ---
-title: "System Requirements"
+title: System Requirements | C++
+linktitle: System Requirements
 type: docs
 url: /cpp/system-requirements/
 keywords: "C++ API, PUB Files, PDF Files"

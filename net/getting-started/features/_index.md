@@ -1,5 +1,6 @@
 ---
-title: "Features"
+title: Apose.PUB for .NET Features
+linktitle: Features
 type: docs
 url: /net/features/
 weight: 30

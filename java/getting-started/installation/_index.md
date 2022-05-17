@@ -1,5 +1,6 @@
 ---
-title: "Installation"
+title: Installation | Java
+linktitle: Installation
 type: docs
 url: /java/installation/
 weight: 60

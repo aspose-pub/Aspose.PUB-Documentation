@@ -1,5 +1,6 @@
 ---
-title: "Features"
+title: Apose.PUB for Java Features
+linktitle: Features
 type: docs
 url: /java/features/
 weight: 30

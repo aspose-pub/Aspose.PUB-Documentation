@@ -1,5 +1,6 @@
 ---
-title: "Supported File Formats"
+title: Supported File Formats
+linktitle: Supported File Formats | .NET
 type: docs
 url: /net/supported-file-formats/
 weight: 20

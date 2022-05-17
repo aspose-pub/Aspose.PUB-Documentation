@@ -1,6 +1,11 @@
 ---
+<<<<<<< HEAD
 title: Getting Started - C# Publisher PUB Conversion and Manipulation API
 linktitle: "Getting Started"
+=======
+title: Getting Started | .NET
+linktitle: Getting Started
+>>>>>>> 90c1786 (Titles seo issues fixed)
 type: docs
 url: /net/getting-started/
 weight: 10

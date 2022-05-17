@@ -1,5 +1,6 @@
 ---
-title: "How to Run the Examples"
+title: How to Run the Examples | C++
+linktitle: How to Run the Examples
 type: docs
 url: /cpp/how-to-run-the-examples/
 keywords: "C++, open PUB, read PUB, Convert PUB to PDF, pub to pdf"

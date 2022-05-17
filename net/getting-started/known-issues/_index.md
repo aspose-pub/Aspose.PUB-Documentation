@@ -1,5 +1,6 @@
 ---
-title: "Known Issues"
+title: Known Issues | .NET
+linktitle: Known Issues
 type: docs
 url: /net/known-issues/
 weight: 40

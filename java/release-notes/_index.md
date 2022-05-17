@@ -1,5 +1,6 @@
 ---
-title: "Release Notes"
+title: Release Notes | Java
+linktitle: Release Notes
 type: docs
 url: /java/release-notes/
 weight: 30

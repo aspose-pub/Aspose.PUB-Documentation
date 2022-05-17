@@ -1,5 +1,5 @@
 ---
-title: Developer Guide - Create, Edit or Convert PUB files in Java
+title: Developer Guide | Java
 linktitle: Developer Guide
 type: docs
 url: /java/developer-guide/

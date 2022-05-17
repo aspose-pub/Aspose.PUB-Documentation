@@ -1,6 +1,6 @@
 ---
-title: Convert PUB to PDF in C#
-linktitle: PUB to PDF
+title: PUB to PDF | .NET
+linktitle: PUB to PDF Conversion functionality
 type: docs
 url: /net/pub-to-pdf/
 keywords: Convert PUB to PDF, C# API, PUB to PDF using C#, convert .pub file
