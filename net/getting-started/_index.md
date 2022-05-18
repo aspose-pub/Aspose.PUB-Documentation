@@ -1,11 +1,6 @@
 ---
-<<<<<<< HEAD
-title: Getting Started - C# Publisher PUB Conversion and Manipulation API
-linktitle: "Getting Started"
-=======
 title: Getting Started | .NET
 linktitle: Getting Started
->>>>>>> 90c1786 (Titles seo issues fixed)
 type: docs
 url: /net/getting-started/
 description: Aspose.PUB for .NET API solution provides you with the reach functionality on manipulating Publisher files. Here is all you need to know to start using it.
