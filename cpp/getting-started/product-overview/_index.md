@@ -3,6 +3,7 @@ title: Product Overview | C++
 linktitle: Product Overview
 type: docs
 url: /cpp/product-overview/
+descroption: Aspose.PUB for C++ is a class library that provides you with the functionality of reading and converting Microsoft Publisher files (.pub).
 weight: 10
 ---
 

@@ -3,6 +3,7 @@ title: Manipulate Publisher PUB files Programmatically in C#
 linktitle: Programming with Documents
 type: docs
 url: /net/programming-with-documents/
+description: Programing PUB files with Aspose.PUB for .NET starts with editing the file Metadata that describes its properties like author, tile, company, language, etc.
 weight: 20
 description: C# Publisher PUB Manipulation API allows you to change PUB files. For example, with the following sample code, you can edit meta data of PUB files programmatically.
 ---

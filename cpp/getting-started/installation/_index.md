@@ -3,6 +3,7 @@ title: Installation | C++
 linktitle: Installation
 type: docs
 url: /cpp/installation/
+description: You can download and install Aspose.PUB API solution for C++ through NuGet either by manually downloading the zip archive or using Nuget Package Manager.
 weight: 50
 ---
 

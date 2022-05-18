@@ -3,6 +3,7 @@ title: How to Run the Examples | .NET
 linktitle: How to Run the Examples
 type: docs
 url: /net/how-to-run-the-examples/
+description: To run the examples of Aspose.PUB for .NET you can either clone the repository using your favorite Github client or download the ZIP file.
 weight: 80
 description: Download and run C# Publisher PUB Conversion and Manipulation API examples from GitHub in Visual Studio.
 ---

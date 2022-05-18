@@ -2,7 +2,8 @@
 title: Installation | .NET
 linktitle: Installation
 type: docs
-url: /net/installation/
+url: /net/installation/ 
+description: You can download and install Aspose.PUB API solution for .NET either through NuGet or using the Package Manager Console.
 weight: 60
 description: Install C# Publisher PUB Conversion and Manipulation API through NuGet and Package Manager Console.
 ---

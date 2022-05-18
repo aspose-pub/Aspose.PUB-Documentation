@@ -4,7 +4,7 @@ linktitle: PUB to PDF Conversion functionality
 type: docs
 url: /cpp/pub-to-pdf/
 keywords: "C++ convert pub to pdf, pub to pdf C++, C++ API publication files to pdf"
-description: "This article explains how to convert PUB files to PDF in C++."
+description: PUB to PDF convertion functionality using Aspose.PUB for C++ solution is described and demonstrated with the pseudocode in this article.
 weight: 10
 ---
 

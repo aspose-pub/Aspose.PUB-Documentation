@@ -3,6 +3,7 @@ title: Licensing
 linktitle: Licensing | Java
 type: docs
 url: /java/licensing/
+description: To get the license of theAspose.PUB API solution for Java you can either apply it using File or Stream Object or by loading a License from File.
 weight: 70
 description: Evaluate Java Publisher PUB Conversion and Manipulation API and set license to avoid evaluation limitations.
 ---

@@ -3,6 +3,7 @@ title: Licensing | .NET
 linktitle: Licensing
 type: docs
 url: /net/licensing/
+description: To get the license of theAspose.PUB API solution for .NET you can either apply it using File or Stream Object or by loading a License from File.
 weight: 70
 description: Evaluate C# Publisher PUB Conversion and Manipulation API and set license to avoid evaluation limitations.
 ---
