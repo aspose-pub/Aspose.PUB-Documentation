@@ -1,7 +1,9 @@
 ---
-title: "How to Run the Examples"
+title: How to Run the Examples | Java
+linktitle: How to Run the Examples
 type: docs
 url: /java/how-to-run-the-examples/
+description: To run the examples of Aspose.PUB for Java you can either clone the repository using your favorite Github client or download the ZIP file.
 weight: 80
 description: Download and run Java Publisher PUB Conversion and Manipulation API examples from GitHub in IntelliJ IDEA, Eclipse and NetBeans.
 ---

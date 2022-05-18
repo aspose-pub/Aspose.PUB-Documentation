@@ -1,7 +1,9 @@
 ---
-title: "Features"
+title: Apose.PUB for .NET Features
+linktitle: Features
 type: docs
 url: /net/features/
+description: Aspose.PUB for .NET API solution provides you with the functionality to read Microsoft Publication (.pub) files and convert .pub files to PDF.
 weight: 30
 description: C# Publisher PUB Conversion and Manipulation API can read and convert Microsoft Publication files to PDF.
 ---

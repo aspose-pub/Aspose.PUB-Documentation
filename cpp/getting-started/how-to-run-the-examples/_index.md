@@ -1,9 +1,10 @@
 ---
-title: "How to Run the Examples"
+title: How to Run the Examples | C++
+linktitle: How to Run the Examples
 type: docs
 url: /cpp/how-to-run-the-examples/
 keywords: "C++, open PUB, read PUB, Convert PUB to PDF, pub to pdf"
-description: "This article shows how to convert PUB files to PDF using C++."
+description: To run the examples of Aspose.PUB for C++ you can either clone the repository using your favorite Github client or download the ZIP file.
 weight: 70
 ---
 

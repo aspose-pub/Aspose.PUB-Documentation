@@ -3,6 +3,7 @@ title: Aspose.PUB for Java
 type: docs
 url: /java/
 weight: 10
+description: In this chapter, you will find all the updates of the Aspose.PUB API solution for Java divided into the sections according to the year of the release.
 is_root: true
 ---
 

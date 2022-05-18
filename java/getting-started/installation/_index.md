@@ -1,7 +1,9 @@
 ---
-title: "Installation"
+title: Installation | Java
+linktitle: Installation
 type: docs
 url: /java/installation/
+definition: For installing Aspose.PUB API solution for Java from Aspose Repository you need to specify the repository configuration and define API dependency.
 weight: 60
 description: Install Java Publisher PUB Conversion and Manipulation API via Maven project and Maven repository.
 ---

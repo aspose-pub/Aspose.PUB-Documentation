@@ -1,7 +1,9 @@
 ---
-title: "Supported File Formats"
+title: Supported File Formats | Java
+linktitle: Supported File Formats
 type: docs
 url: /java/supported-file-formats/
+description: Aspose.PUB for Java is a class library that lets you work with PUB files as input documents and PDF files as output documents in conversion.
 weight: 20
 description: Supported file formats for Java Publisher PUB Conversion and Manipulation API include PUB and PDF.
 ---

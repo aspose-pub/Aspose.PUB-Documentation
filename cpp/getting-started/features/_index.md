@@ -1,7 +1,9 @@
 ---
-title: "Features"
+title: Apose.PUB for C++ Features 
+linktitle: Features
 type: docs
 url: /cpp/features/
+description: Aspose.PUB for C++ API solution provides you with the functionality to read Microsoft Publication (.pub) files and convert .pub files to PDF.
 weight: 30
 ---
 

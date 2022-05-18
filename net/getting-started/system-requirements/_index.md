@@ -1,7 +1,9 @@
 ---
-title: "System Requirements"
+title: System Requirements | .NET
+linktitle: System Requirements
 type: docs
 url: /net/system-requirements/
+description: Aspose.PUB for .NET can be used in any development environment that support C++, but some environments are explicitly supported.
 weight: 50
 aliases:
 - /net/system-requirements-html/

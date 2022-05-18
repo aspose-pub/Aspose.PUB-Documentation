@@ -1,8 +1,10 @@
 ---
-title: "Product Overview"
+title: Product Overview | .NET
+linktitle: Product Overview
 type: docs
 url: /net/product-overview/
 weight: 10
+descroption: Aspose.PUB for .NET is a class library that provides you with the functionality of reading and converting Microsoft Publisher files (.pub).
 aliases:
 - /net/product-overview-html/
 description: C# Publisher PUB Conversion and Manipulation API gives you the power to read Microsoft Publisher files (.pub) and convert these to other file formats e.g. PDF. 

@@ -1,9 +1,10 @@
 ---
-title: "System Requirements"
+title: System Requirements | C++
+linktitle: System Requirements
 type: docs
 url: /cpp/system-requirements/
-keywords: "C++ API, PUB Files, PDF Files"
-description: "C++ library to read PUB files and convert to PDF. Sample code to edit PUB metadata and save to PDF using C++."
+keywords: C++ API, PUB Files, PDF Files
+description: Aspose.PUB for C++ can be used in any development environment that support C++, but some environments are explicitly supported.
 weight: 40
 ---
 
