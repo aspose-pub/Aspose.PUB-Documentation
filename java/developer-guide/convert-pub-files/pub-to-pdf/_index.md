@@ -3,7 +3,7 @@ title: PUB to PDF | Java
 linktitle: PUB to PDF Conversion functionality
 type: docs
 url: /java/pub-to-pdf/
-keywords: "Java API, PUB to PDF using Java, Open .pub file, read .pub file, convert .pub file"
+keywords: Convert PUB to PDF, Java API, PUB to PDF using Java, convert .pub file
 description: PUB to PDF convertion functionality using Aspose.PUB for Java solution is described and demonstrated with the pseudocode in this article.
 weight: 10
 ---
