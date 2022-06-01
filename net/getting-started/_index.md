@@ -7,11 +7,11 @@ description: Aspose.PUB for .NET API solution provides you with the reach functi
 weight: 10
 ---
 
-- [Product Overview](/pub/net/product-overview-html/)
-- [Supported File Formats](/pub/net/supported-file-formats-html/)
-- [Features](/pub/net/features-html/)
-- [Known Issues](/pub/net/known-issues-html/)
-- [System Requirements](/pub/net/system-requirements-html/)
-- [Installation](/pub/net/installation-html/)
-- [Licensing](/pub/net/licensing-html/)
-- [How to Run the Examples](/pub/net/how-to-run-the-examples-html/)
+- [Product Overview](/pub/net/product-overview/)
+- [Supported File Formats](/pub/net/supported-file-formats/)
+- [Features](/pub/net/features/)
+- [Known Issues](/pub/net/known-issues/)
+- [System Requirements](/pub/net/system-requirements/)
+- [Installation](/pub/net/installation/)
+- [Licensing](/pub/net/licensing/)
+- [How to Run the Examples](/pub/net/how-to-run-the-examples/)
