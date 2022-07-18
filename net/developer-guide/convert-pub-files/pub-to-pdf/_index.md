@@ -8,7 +8,7 @@ description: PUB to PDF convertion functionality using Aspose.PUB for .NET solut
 weight: 10
 ---
 
-Aspose.PUB for .NET can read and convert publication files (.pub) to [PDF](https://wiki.fileformat.com/view/pdf/). The [PubFactory](https://apireference.aspose.com/net/pub/aspose.pub/pubfactory) class creates content from a .pub file for further processing by the Document class of the API.
+Aspose.PUB for .NET can read and convert publication files (.pub) to [PDF](https://wiki.fileformat.com/view/pdf/). The [PubFactory](https://reference.aspose.com/net/pub/aspose.pub/pubfactory) class creates content from a .pub file for further processing by the Document class of the API.
 
 {{% alert color="primary" %}} 
 
@@ -27,7 +27,7 @@ Aspose.PUB for .NET supports converting multi-page PUB documents to PDF using th
 
 
 1. Create a C# console or WinForms project
-1. Load the .pub file using [PubFactory](https://apireference.aspose.com/net/pub/aspose.pub/pubfactory) class
-1. Convert .pub to .pdf using the [ConvertToPdf](https://apireference.aspose.com/net/pub/aspose.pub.ipdfconvertor/converttopdf/methods/1) method of [ipdfConverter](https://apireference.aspose.com/net/pub/aspose.pub/ipdfconvertor) interface
+1. Load the .pub file using [PubFactory](https://reference.aspose.com/net/pub/aspose.pub/pubfactory) class
+1. Convert .pub to .pdf using the [ConvertToPdf](https://reference.aspose.com/net/pub/aspose.pub.ipdfconvertor/converttopdf/methods/1) method of [ipdfConverter](https://reference.aspose.com/net/pub/aspose.pub/ipdfconvertor) interface
 
 {{< gist "aspose-com-gists" "5f334c37357a615762e45eec01316707" "Examples-CSharp-ConvertPUBFiles-ConvertPUBtoPDF-ConvertPUBtoPDF.cs" >}}

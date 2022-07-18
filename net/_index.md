@@ -25,6 +25,6 @@ Following are the links to some useful resources you may need to accomplish your
 - [Aspose.PUB for .NET Release Notes](/pub/net/release-notes/)
 - [Aspose.PUB for .NET Product Page](https://products.aspose.com/pub/net)
 - [Install Aspose.PUB for .NET NuGet Package](https://www.nuget.org/packages/Aspose.PUB/)
-- [Aspose.PUB for .NET API Reference Guide](https://apireference.aspose.com/net/pub)
+- [Aspose.PUB for .NET API Reference Guide](https://reference.aspose.com/net/pub)
 - [Aspose.PUB for .NET Free Support Forum](https://forum.aspose.com/c/pub)
 - [Aspose.PUB for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)

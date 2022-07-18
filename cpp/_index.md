@@ -23,7 +23,7 @@ The following links offer some useful resources you may need to accomplish your 
 - [Aspose.PUB for C++ Release Notes](/pub/cpp/release-notes/)
 - [Aspose.PUB for C++ Product Page](https://products.aspose.com/pub/cpp)
 - [Install Aspose.PUB for C++ NuGet Package](https://www.nuget.org/packages/Aspose.PUB.CPP/)
-- [Aspose.PUB for C++ API Reference Guide](https://apireference.aspose.com/cpp/pub)
+- [Aspose.PUB for C++ API Reference Guide](https://reference.aspose.com/cpp/pub)
 - [Download Examples at GitHub Repository](https://github.com/aspose-pub/Aspose.PUB-for-C)
 - [Aspose.PUB for C++ Free Support Forum](https://forum.aspose.com/c/pub)
 - [Aspose.PUB for C++ Paid Support Helpdesk](https://helpdesk.aspose.com/)
