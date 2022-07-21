@@ -31,11 +31,15 @@ namespace Aspose.PUB.Examples.src
             Console.WriteLine($"Page height: {GetInchesString(doc.Height)}");
             Console.WriteLine($"Field count: {doc.FieldCount}");
             string fontNames = GetCollectionString(doc.FontNames);
-            if(!string.IsNullOrEmpty(fontNames))
+            if (!string.IsNullOrEmpty(fontNames))
+            {
                 Console.WriteLine($"Fonts used in document: {fontNames}");
+            }
             string colors = GetCollectionString(doc.Colors);
             if (!string.IsNullOrEmpty(colors))
+            {
                 Console.WriteLine($"Colors used in document: {colors}");
+            }
         }
 
         private string GetInchesString(uint size)
@@ -47,18 +51,22 @@ namespace Aspose.PUB.Examples.src
         private string GetCollectionString(ICollection array)
         {
             if (array.Count == 0)
+            {
                 return null;
+            }
 
             StringBuilder sb = new StringBuilder();
             int num = -1;
             IEnumerator enumerator = array.GetEnumerator();
 
-            while(enumerator.MoveNext())
+            while (enumerator.MoveNext())
             {
                 num++;
                 sb.Append(GetObjectStirng(enumerator.Current));
                 if (num < (array.Count - 1))
+                {
                     sb.Append(", ");
+                }
             }
 
             return sb.ToString();
@@ -66,7 +74,7 @@ namespace Aspose.PUB.Examples.src
 
         private string GetObjectStirng(object value)
         {
-            if(value is Color)
+            if (value is Color)
             {
                 Color colorVal = (Color)value;
                 return $"RGB({colorVal.R}, {colorVal.G}, {colorVal.B})"; 

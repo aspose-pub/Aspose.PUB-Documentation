@@ -54,8 +54,10 @@ namespace Aspose.PUB.Examples
 
         protected void PrintAlignedTitle(string caption, bool startFromNewLine = false, char frameSymbol = '-')
         {
-            if(startFromNewLine)
+            if (startFromNewLine)
+            {
                 Console.WriteLine();
+            }
             int frameLength = (AlignedTitleLength - caption.Length) / 2;
             string frame = new string(frameSymbol, frameLength);
 
@@ -65,7 +67,9 @@ namespace Aspose.PUB.Examples
         protected void PrintAlignedTitle(string caption, int titleLength, bool startFromNewLine = false, char frameSymbol = '-')
         {
             if (startFromNewLine)
+            {
                 Console.WriteLine();
+            }
             int frameLength = (titleLength - caption.Length) / 2;
             string frame = new string(frameSymbol, frameLength);
 

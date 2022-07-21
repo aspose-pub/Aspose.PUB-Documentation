@@ -37,7 +37,7 @@ namespace Aspose.PUB.Examples
             AddInfoField("DocSecurity", info.DocSecurity, outInfo);
 
             Console.WriteLine($"Metadata for document '{this._pubName}':");
-            foreach(string fieldName in outInfo.Keys)
+            foreach (string fieldName in outInfo.Keys)
             {
                 Console.WriteLine($"\"{fieldName}\": {outInfo[fieldName]}");
             }
@@ -46,13 +46,17 @@ namespace Aspose.PUB.Examples
         private void AddInfoField(string fieldName, string value, Dictionary<string, string> outInfo)
         {
             if (!string.IsNullOrEmpty(value))
+            {
                 outInfo.Add(fieldName, value);
+            }
         }
 
         private void AddInfoField(string fieldName, int value, Dictionary<string, string> outInfo)
         {
             if (value != 0)
+            {
                 outInfo.Add(fieldName, value.ToString());
+            }
         }
     }
 }
