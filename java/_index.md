@@ -24,6 +24,6 @@ Following are the links to some useful resources you may need to accomplish your
 - [Aspose.PUB for Java Release Notes](https://docs.aspose.com/pub/java/release-notes/)
 - [Aspose.PUB for Java Product Page](https://products.aspose.com/pub/java)
 - [Download Aspose.PUB for Java](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-pub)
-- [Aspose.PUB for Java API Reference Guide](https://reference.aspose.com/java/pub)
+- [Aspose.PUB for Java API Reference Guide](https://reference.aspose.com/pub/java)
 - [Aspose.PUB for Java Free Support Forum](https://forum.aspose.com/c/pub)
 - [Aspose.PUB for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)

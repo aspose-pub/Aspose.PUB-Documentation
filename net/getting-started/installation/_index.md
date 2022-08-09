@@ -43,7 +43,7 @@ In order to use any component in your application, add a reference to it. The st
 1. Click **OK**. 
    An Aspose.PUB reference appears under the **References** node of the project.
 ## **Get Assembly Build Version Information**
-Once you include the API in your project, you can get the referenced API version information using the [BuildVersionInfo](https://reference.aspose.com/net/pub/aspose.pub/buildversioninfo) class as shown in the following code sample.
+Once you include the API in your project, you can get the referenced API version information using the [BuildVersionInfo](https://reference.aspose.com/pub/net/aspose.pub/buildversioninfo/) class as shown in the following code sample.
 
 {{< gist "aspose-com-gists" "5f334c37357a615762e45eec01316707" "Examples-CSharp-GettingStarted-GetBuildVersionInfo-GetBuildVersionInfo.cs" >}}
 ## **Uninstalling Aspose.PUB for .NET**
