@@ -7,4 +7,4 @@ description: In this chapter, you will find updates of the Aspose.PUB API soluti
 weight: 10
 ---
 
-- [Aspose.PUB for Java 22.8 Release Notes](/pdf/java/aspose-pub-for-java-22-8-release-notes/)
+- [Aspose.PUB for Java 22.8 Release Notes](/pub/java/aspose-pub-for-java-22-8-release-notes/)
