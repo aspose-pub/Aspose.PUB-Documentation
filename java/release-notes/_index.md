@@ -8,3 +8,4 @@ weight: 30
 ---
 
 - [Release Notes - 2020](/pub/net/release-notes-2020/)
+- [Release Notes - 2022](/pub/net/release-notes-2022/)
