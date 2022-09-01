@@ -7,5 +7,5 @@ description: In this chapter, you will find all the updates of the Aspose.PUB AP
 weight: 30
 ---
 
-- [Release Notes - 2020](/pub/net/release-notes-2020/)
-- [Release Notes - 2022](/pub/net/release-notes-2022/)
+- [Release Notes - 2020](/pub/java/release-notes-2020/)
+- [Release Notes - 2022](/pub/java/release-notes-2022/)
