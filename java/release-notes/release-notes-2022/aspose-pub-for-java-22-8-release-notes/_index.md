@@ -1,5 +1,5 @@
 ---
-title: "Aspose.PUB for Java 20.8 Release Notes"
+title: "Aspose.PUB for Java 22.8 Release Notes"
 type: docs
 url: /java/aspose-pub-for-java-22-8-release-notes/
 weight: 20
