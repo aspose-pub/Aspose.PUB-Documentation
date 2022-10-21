@@ -9,7 +9,7 @@ description: Install Java Publisher PUB Conversion and Manipulation API via Mave
 ---
 
 ## **Installing Aspose.PUB for Java from Aspose Repository**
-Aspose hosts all Java APIs on [Aspose Repository](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/). You can easily use Aspose.PUB for Java API directly in your Maven Projects with simple configurations.
+Aspose hosts all Java APIs on [Aspose Repository](https://releases.aspose.com/java/repo/com/aspose/). You can easily use Aspose.PUB for Java API directly in your Maven Projects with simple configurations.
 ### **Specify Aspose Repository Configuration**
 First you need to specify Aspose Repository configuration / location in your Maven pom.xml as follows:
 
@@ -23,7 +23,7 @@ First you need to specify Aspose Repository configuration / location in your Ma
 
          <name>repo</name>
 
-         <url>http://repository.aspose.com/repo/</url>
+         <url>https://releases.aspose.com/java/repo/</url>
 
      </repository>
 
