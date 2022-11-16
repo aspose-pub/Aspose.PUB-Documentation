@@ -1,8 +1,8 @@
 ---
-title: "Aspose.PUB for CPP 22.10 Release Notes"
+title: "Aspose.PUB for CPP 22.11 Release Notes"
 type: docs
-url: /cpp/aspose-pub-for-cpp-22-10-release-notes/
-weight: 5
+url: /cpp/aspose-pub-for-cpp-22-11-release-notes/
+weight: 4
 ---
 
 ## Major Features
