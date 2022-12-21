@@ -8,7 +8,6 @@ weight: 3
 ## Major Features
 
 Aspose.PUB for C++ 22.12 is ready for use with Aspose products ver 22.12.
-MacOS platform is supported now.
 
 ## Got Queries?
 If you have any query related to Aspose.PUB for C++ API, please feel free to write to reach us on [Aspose.PUB forum](https://forum.aspose.com/c/pub/). We'll be glad to assist you with your inquiries.
