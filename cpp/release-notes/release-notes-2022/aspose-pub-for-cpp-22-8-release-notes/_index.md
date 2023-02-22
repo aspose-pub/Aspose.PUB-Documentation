@@ -3,6 +3,7 @@ title: "Aspose.PUB for CPP 22.8 Release Notes"
 type: docs
 url: /cpp/aspose-pub-for-cpp-22-8-release-notes/
 weight: 7
+description: C++ APIs to manipulate Publisher files. This page contains new features Aspose.PUB for C++, enhancement, and bug fixes in 2022, version 22.8.
 ---
 
 ## Major Features

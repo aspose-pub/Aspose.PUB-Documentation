@@ -1,5 +1,5 @@
 ---
-title: Developer Guide - Create, Edit or Convert PUB files in C#
+title: Create, Edit or Convert PUB files in C#
 linktitle: "Developer Guide"
 type: docs
 url: /net/developer-guide/

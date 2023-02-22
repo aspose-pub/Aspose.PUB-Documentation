@@ -3,7 +3,7 @@ title: Licensing | C++
 linktitle: Licensing
 type: docs
 url: /cpp/licensing/
-definition: To get the license of theAspose.PUB API solution for C++ you can either apply it using File or Stream Object or by loading a License from File.
+definition: Native C++ APIs to manipulate Publisher files.  Learn the how to get a license installed to start working with Aspose.PUB for C++.
 weight: 60
 ---
 

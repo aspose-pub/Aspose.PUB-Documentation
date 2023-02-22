@@ -3,7 +3,7 @@ title: Programming with Documents | C++
 linktitle: Programming with Documents
 type: docs
 url: /cpp/programming-with-documents/
-description: Programing PUB files with Aspose.PUB for C++ starts with editing the file Metadata that describes its properties like author, tile, company, language, etc.
+description: To code PUB files with Aspose.PUB for C++ start with editing the file Metadata that describes its properties like author, tile, company, language, etc.
 weight: 20
 ---
 

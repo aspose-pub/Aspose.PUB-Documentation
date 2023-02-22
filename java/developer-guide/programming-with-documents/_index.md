@@ -3,9 +3,8 @@ title: Programming with Documents | Java
 linktitle: Programming with Documents
 type: docs
 url: /java/programming-with-documents/
-description: Programing PUB files with Aspose.PUB for Java starts with editing the file Metadata that describes its properties like author, tile, company, language, etc.
+description: To code PUB files with Aspose.PUB for Java start with editing the file Metadata that describes its properties like author, tile, company, language, etc.
 weight: 20
-description: Java Publisher PUB Manipulation API allows you to change PUB files. For example, with the following sample code, you can edit meta data of PUB files programmatically.
 ---
 
 Aspose.PUB for Java facilitates you to manipulate .pub files in your applications. Its well-defined structure lets you read PUB files and work with the file properties.

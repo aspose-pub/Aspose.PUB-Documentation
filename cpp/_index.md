@@ -3,6 +3,7 @@ title: Aspose.PUB for C++
 type: docs
 url: /cpp/
 weight: 10
+description: C++ API Solution to manipulate Publisher files. Rich functionality provided by Aspose.PUB Manipulation and Management API.
 is_root: true
 ---
 

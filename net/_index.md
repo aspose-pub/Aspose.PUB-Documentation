@@ -3,6 +3,7 @@ title: Aspose.PUB for .NET
 type: docs
 url: /net/
 weight: 10
+description: .NET C# API Solution to manipulate Publisher files. Rich functionality provided by Aspose.PUB Manipulation and Management API.
 aliases:
 - /net/home/
 is_root: true
