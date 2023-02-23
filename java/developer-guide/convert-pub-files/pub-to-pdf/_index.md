@@ -31,3 +31,10 @@ Aspose.PUB for Java supports converting multi-page PUB documents to PDF using th
 1. Convert .pub to .pdf using the [ConvertToPdf](https://reference.aspose.com/pub/java/com.aspose.pub/IPdfConverter#convertToPdf-com.aspose.pub.Document-java.io.OutputStream-) method of [ipdfConverter](https://reference.aspose.com/pub/java/com.aspose.pub/IPdfConverter) interface
 
 {{< gist "aspose-com-gists" "0db82d4e131be0821f3fdb1b21f86e47" "Examples-src-java-convertPUBtoPDF.java" >}}
+
+
+{{% alert color="primary" %}} 
+
+To see how the functionality can be implemented into a cross-platform application learn our [online PUB Converter](https://products.aspose.app/pub/conversion). 
+
+{{% /alert %}} 

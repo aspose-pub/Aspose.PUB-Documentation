@@ -31,3 +31,10 @@ Aspose.PUB for .NET supports converting multi-page PUB documents to PDF using th
 1. Convert .pub to .pdf using the [ConvertToPdf](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/converttopdf/) method of [ipdfConverter](https://reference.aspose.com/pub/net/aspose.pub/ipdfconverter/) interface
 
 {{< gist "aspose-com-gists" "5f334c37357a615762e45eec01316707" "Examples-CSharp-ConvertPUBFiles-ConvertPUBtoPDF-ConvertPUBtoPDF.cs" >}}
+
+
+{{% alert color="primary" %}} 
+
+To see how the functionality can be implemented into a cross-platform application learn our [online PUB Converter](https://products.aspose.app/pub/conversion). 
+
+{{% /alert %}} 
