@@ -2,6 +2,7 @@
 title: Aspose.PUB Product family
 type: docs
 url: /pub/
+description: Java, .NET, and C++ APIs for the developers to manipulate and process MS Publisher (PUB) files in Web, Desktop, or Mobile apps. 
 ---
 
 {{% alert color="primary" %}}

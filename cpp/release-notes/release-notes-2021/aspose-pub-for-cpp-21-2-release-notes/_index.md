@@ -3,6 +3,7 @@ title: "Aspose.PUB for CPP 21.2 Release Notes"
 type: docs
 url: /cpp/aspose-pub-for-cpp-21-2-release-notes/
 weight: 11
+description: C++ APIs to manipulate Publisher files. This page contains new features Aspose.PUB for C++, enhancement, and bug fixes in 2021, version 21.2.
 ---
 
 ## Major Features

@@ -1,5 +1,5 @@
 ---
-title: Convert Publisher PUB files to Different Formats in C#
+title: C# API to convert Publisher PUB files
 linktitle: Convert PUB Files
 type: docs
 url: /net/convert-pub-files/

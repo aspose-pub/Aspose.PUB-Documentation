@@ -31,3 +31,9 @@ Aspose.PUB for C++ supports converting multi-page PUB documents to PDF using the
 1. Convert .pub to .pdf using the ConvertToPdf method of ipdfConverter interface
 
 {{< gist "aspose-com-gists" "3c05d72891de357368fda8ccbfe62466" "Examples-CPP-ConvertPUBFiles-ConvertPUBtoPDF-ConvertPUBtoPDF.cpp" >}}
+
+{{% alert color="primary" %}} 
+
+To see how the functionality can be implemented into a cross-platform application learn our [online PUB Converter](https://products.aspose.app/pub/conversion). 
+
+{{% /alert %}} 

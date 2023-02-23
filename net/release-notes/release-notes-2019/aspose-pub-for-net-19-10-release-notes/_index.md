@@ -3,6 +3,7 @@ title: "Aspose.PUB for .NET 19.10 Release Notes"
 type: docs
 url: /net/aspose-pub-for-net-19-10-release-notes/
 weight: 20
+description: C# .NET APIs to manipulate Publisher files. This page contains new features Aspose.PUB for .NET, enhancement, and bug fixes in 2019, version 19.10.
 ---
 
 {{% alert color="primary" %}} 

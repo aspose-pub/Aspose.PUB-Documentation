@@ -3,6 +3,7 @@ title: "Aspose.PUB for .NET 22.5 Release Notes"
 type: docs
 url: /net/aspose-pub-for-net-22-5-release-notes/
 weight: 80
+description: C# .NET APIs to manipulate Publisher files. This page contains new features Aspose.PUB for .NET, enhancement, and bug fixes in 2022, version 22.5.
 ---
 
 {{% alert color="primary" %}} 

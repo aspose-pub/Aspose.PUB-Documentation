@@ -3,7 +3,7 @@ title: Aspose.PUB for Java
 type: docs
 url: /java/
 weight: 10
-description: In this chapter, you will find all the updates of the Aspose.PUB API solution for Java divided into the sections according to the year of the release.
+description: Java API Solution to manipulate Publisher files. Rich functionality provided by Aspose.PUB Manipulation and Management API.
 is_root: true
 ---
 
@@ -19,11 +19,18 @@ Aspose.PUB for Java API lets you work with PUB files in your Java applications. 
 ## **Aspose.PUB for Java Resources**
 Following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.PUB for Java Online Documentation](https://docs.aspose.com/pub/java/)
-- [Aspose.PUB for Java Features](https://docs.aspose.com/pub/java/features/)
-- [Aspose.PUB for Java Release Notes](https://docs.aspose.com/pub/java/release-notes/)
-- [Aspose.PUB for Java Product Page](https://products.aspose.com/pub/java)
-- [Download Aspose.PUB for Java](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-pub)
-- [Aspose.PUB for Java API Reference Guide](https://reference.aspose.com/pub/java)
-- [Aspose.PUB for Java Free Support Forum](https://forum.aspose.com/c/pub)
-- [Aspose.PUB for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
+- [Aspose.PUB Online Documentation](/pub/) - the root page where all the programming languages supported by this API Solution are placed.
+- [Aspose.PUB for Java Features](/pub/java/features/) - here you will find out if this is a fitting solution to satisfy the requirements of your product. 
+- [Aspose.PUB for Java Release Notes](/pub/java/release-notes/) - is the chapter where all the improvements and fixes of the solution are listed.
+- [Aspose.PUB for Java Product Page](https://products.aspose.com/pub/java) - here you can purchase the product or download a free trial and find a brief description of the APIs.
+- [Download Aspose.PUB for Java](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-pub) - go there to load the package via Maven Project.
+- [Aspose.PUB for Java API Reference Guide](https://reference.aspose.com/pub/java) - all the entities of  Aspose.PUB  for Java are gathered and described here.
+- [Aspose.PUB for Java Free Support Forum](https://forum.aspose.com/c/pub) - there you can get help with the product. Note, that having the paid version, you will get an answer sooner through the helpdesk.
+- [Aspose.PUB for Java Paid Support Helpdesk](https://helpdesk.aspose.com/) - if you have bought the solution and have trouble working with it you can get help there. Create a ticket to fix the problem you have.
+
+
+{{% alert color="primary" %}} 
+
+The solution has [web applications to manage PUB files](https://products.aspose.app/pub/applications) in its ecosystem. Use them to convert, merge or open your MS Publisher documents online.
+
+{{% /alert %}} 
