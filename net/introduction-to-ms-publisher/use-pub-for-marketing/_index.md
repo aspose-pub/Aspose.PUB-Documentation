@@ -2,7 +2,7 @@
 title: Usage of MS Publisher for marketing and advertising
 linktitle: Usage of MS Publisher for marketing and advertising purposes
 type: docs
-url: /net/tuse-pub-for-marketing/
+url: /net/use-pub-for-marketing/
 weight: 20
 keywords: ms publisher in ads, ms publisher for marketing
 description: MS Publisher is a desktop publishing software application used for publishing, marketing materials in particular. What are the best practices for it?
