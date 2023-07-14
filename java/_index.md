@@ -21,7 +21,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 - [Aspose.PUB Online Documentation](/pub/) - the root page where all the programming languages supported by this API Solution are placed.
 - [Aspose.PUB for Java Features](/pub/java/features/) - here you will find out if this is a fitting solution to satisfy the requirements of your product.
-- [Aspose.PUB for Java Release Notes](https://releases.aspose.com/tex/java/release-notes/) - is the chapter where all the improvements and fixes of the solution are listed.
+- [Aspose.PUB for Java Release Notes](https://releases.aspose.com/pub/java/release-notes/) - is the chapter where all the improvements and fixes of the solution are listed.
 - [Aspose.PUB for Java Product Page](https://products.aspose.com/pub/java) - here you can purchase the product or download a free trial and find a brief description of the APIs.
 - [Download Aspose.PUB for Java](https://releases.aspose.com/java/repo/com/aspose/aspose-pub/) - go there to load the package via Maven Project.
 - [Aspose.PUB for Java API Reference Guide](https://reference.aspose.com/pub/java) - all the entities of  Aspose.PUB  for Java are gathered and described here.

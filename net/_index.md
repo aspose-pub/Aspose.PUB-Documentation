@@ -23,7 +23,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 - [Aspose.PUB for Online Documentation](/pub/) - the root page where you can find all the programming languages supported by this API Solution.
 - [Aspose.PUB for .NET Features](/pub/net/features/) - here you will learn if the solution gives you all you need to manage your product.
-- [Aspose.PUB for .NET Release Notes](https://releases.aspose.com/tex/net/release-notes/) - is the chapter you will find all the feature improvements chronologically placed.
+- [Aspose.PUB for .NET Release Notes](https://releases.aspose.com/pub/net/release-notes/) - is the chapter you will find all the feature improvements chronologically placed.
 - [Aspose.PUB for .NET Product Page](https://products.aspose.com/pub/net) - go there if you want to buy the product or download a free trial.
 - [Install Aspose.PUB for .NET NuGet Package](https://www.nuget.org/packages/Aspose.PUB/) - this is the link for loading the package via NuGet package manager.
 - [Aspose.PUB for .NET API Reference Guide](https://reference.aspose.com/pub/net/) - all the entities of .NET library Aspose.PUB are gathered and described here.

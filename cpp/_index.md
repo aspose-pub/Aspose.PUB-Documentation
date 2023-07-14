@@ -21,7 +21,7 @@ The following links offer some useful resources you may need to accomplish your 
 
 - [Aspose.PUB Online Documentation](/pub/) - the root page where you can find other programming languages supported by this API Solution.
 - [Aspose.PUB for C++ Features](/pub/cpp/product-overview/) - here you will learn if the solution satisfies the requirements of your product.
-- [Aspose.PUB for C++ Release Notes](https://releases.aspose.com/tex/cpp/release-notes/) - is the chapter where all the feature improvements are listed.
+- [Aspose.PUB for C++ Release Notes](https://releases.aspose.com/pub/cpp/release-notes/) - is the chapter where all the feature improvements are listed.
 - [Aspose.PUB for C++ Product Page](https://products.aspose.com/pub/cpp) - here you can purchase the product or download a free trial and find a brief description of the library.
 - [Install Aspose.PUB for C++ NuGet Package](https://www.nuget.org/packages/Aspose.PUB.CPP/) -  go there to load the package via NuGet package manager.
 - [Aspose.PUB for C++ API Reference Guide](https://reference.aspose.com/pub/cpp) - all the entities of C++ library Aspose.PUB are gathered and described here.
